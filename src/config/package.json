@@ -1,0 +1,26 @@
+{
+  "name"    : "PhoneGap",
+  "version" : "0.4.5",
+  "main"    : "index.js",
+  "window"  : {
+      "devTools" : true
+  },
+  "dependencies" : {
+      "adm-zip": "0.4.7",
+      "chokidar":"1.6.0",
+      "configstore":"3.0.0",
+      "opener": "1.4.1",
+      "os-name": "2.0.1",
+      "node-jsxml": "0.6.0",
+      "uuid": "3.0.1",
+      "request" : "2.65.0",
+      "valid-identifier": "0.0.1"
+  },
+  "devDependencies" : {
+      "phonegap" : "6.5.2"
+  },
+  "licenses": [{
+      "type":"ALv2",
+      "url":"http://www.apache.org/licenses/LICENSE-2.0.html"
+  }]
+}
